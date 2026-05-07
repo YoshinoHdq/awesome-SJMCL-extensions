@@ -15,7 +15,9 @@
 
 ---
 
-[SJMC Launcher](https://github.com/UNIkeEN/SJMCL) 是一款最初来源于上海交通大学 Minecraft 社的新一代 Minecraft 启动器。本仓库收录由社区维护的 SJMCL 扩展，涵盖功能集成、界面增强、生产力工具等各个方面。欢迎通过 PR 添加你的项目，提交前请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
+[SJMC Launcher](https://github.com/UNIkeEN/SJMCL) 是一款最初来源于上海交通大学 Minecraft 社的新一代 Minecraft 启动器。本仓库收录由社区维护的 SJMCL 扩展，涵盖功能集成、界面增强、生产力工具等各个方面。[>> 扩展开发文档](https://mc.sjtu.cn/sjmcl/dev/extension/)
+
+欢迎通过 PR 添加你的项目，提交前请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 目录
 
@@ -39,7 +41,7 @@ _暂无收录，欢迎提交。_
 
 ## 生产力工具
 
-- **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一个记录Minecraft游戏活跃度的日历插件
+- **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一个记录 Minecraft 游戏活跃度的日历插件
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一个简单的 ToDoList 插件
 
 ## 新闻资讯

@@ -15,7 +15,7 @@ A curated list of community extensions for SJMCL ❤️
 
 ---
 
-[SJMC Launcher](https://github.com/UNIkeEN/SJMCL) is a next-generation Minecraft launcher originally from the Shanghai Jiao Tong University Minecraft Club. This repository collects community-maintained SJMCL extensions, covering integrations, UI enhancements, productivity tools, and more.
+[SJMC Launcher](https://github.com/UNIkeEN/SJMCL) is a next-generation Minecraft launcher originally from the Shanghai Jiao Tong University Minecraft Club. This repository collects community-maintained SJMCL extensions, covering integrations, UI enhancements, productivity tools, and more. [>> Extension Documentation](https://mc.sjtu.cn/sjmcl/en/dev/extension/)
 
 Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) before submitting a PR.
 
