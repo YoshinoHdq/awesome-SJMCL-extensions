@@ -41,6 +41,7 @@ _Nothing here yet. Submit yours!_
 
 ## Productivity Tools
 
+- **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — A simple calendar widget to track your Minecraft activities.
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — A simple ToDoList plugin.
 
 ## News & Info
