@@ -27,15 +27,15 @@
 1. Fork 本倉庫並建立新分支。
 2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的對應分類中各新增一行條目。
 
-	```markdown
-	- **[外掛名稱](https://github.com/your/repo)** — 一句話描述。
-	```
+    ```markdown
+    - **[外掛名稱](https://github.com/your/repo)** — 一句話描述。
+    ```
 
-	示例：
+    示例：
 
-	```markdown
-	- **[Clock](https://github.com/example/sjmcl-clock)** — 在啟動器介面展示即時時鐘。
-	```
+    ```markdown
+    - **[Clock](https://github.com/example/sjmcl-clock)** — 在啟動器介面展示即時時鐘。
+    ```
 
 3. 發起 Pull Request，標題簡要描述所新增的外掛。
 
