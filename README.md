@@ -50,7 +50,7 @@ _暂无收录，欢迎提交。_
 
 ## 娱乐
 
-_暂无收录，欢迎提交。_
+- **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — 在启动器主页显示每日 Minecraft 迷因的插件。
 
 ## AI
 
