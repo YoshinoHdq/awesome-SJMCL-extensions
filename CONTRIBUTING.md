@@ -28,15 +28,15 @@
 1. Fork 本仓库并创建新分支。
 2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的对应分类中各添加一行条目。
 
-	```markdown
-	- **[插件名称](https://github.com/your/repo)** — 一句话描述。
-	```
+    ```markdown
+    - **[插件名称](https://github.com/your/repo)** — 一句话描述。
+    ```
 
-	示例：
+    示例：
 
-	```markdown
-	- **[Clock](https://github.com/example/sjmcl-clock)** — 在启动器界面展示实时时钟。
-	```
+    ```markdown
+    - **[Clock](https://github.com/example/sjmcl-clock)** — 在启动器界面展示实时时钟。
+    ```
 
 3. 发起 Pull Request，标题简要描述所添加的插件。
 

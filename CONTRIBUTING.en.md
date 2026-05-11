@@ -27,15 +27,15 @@ These are the only hard requirements. The exact format and structure are up to t
 1. Fork this repository and create a new branch.
 2. Add one entry to the corresponding category in `README.md`, `README.en.md`, and `README.zh-Hans.md`.
 
-	```markdown
-	- **[Plugin Name](https://github.com/your/repo)** — One-line description.
-	```
+    ```markdown
+    - **[Plugin Name](https://github.com/your/repo)** — One-line description.
+    ```
 
-	Example:
+    Example:
 
-	```markdown
-	- **[Clock](https://github.com/example/sjmcl-clock)** — Displays a live clock in the launcher interface.
-	```
+    ```markdown
+    - **[Clock](https://github.com/example/sjmcl-clock)** — Displays a live clock in the launcher interface.
+    ```
 
 3. Open a Pull Request with a brief title describing the plugin you added.
 

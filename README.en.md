@@ -50,7 +50,7 @@ _Nothing here yet. Submit yours!_
 
 ## Entertainment
 
-_Nothing here yet. Submit yours!_
+- **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — A daily Minecraft meme on your SJMCL home screen.
 
 ## AI
 
