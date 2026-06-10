@@ -59,7 +59,7 @@ _暫無收錄，歡迎提交。_
 
 ## 其他
 
-_暫無收錄，歡迎提交。_
+- **[McMSF 漿果服伺服器](https://github.com/Vxiaolong666/mcmsf-SJMC)** — 開放的 Minecraft 伺服器宣傳平台，支援在啟動器中瀏覽、篩選和連接 MCMSF 平台上的各類 Minecraft 伺服器
 
 ---
 

@@ -59,7 +59,7 @@ _Nothing here yet. Submit yours!_
 
 ## Others
 
-_Nothing here yet. Submit yours!_
+- **[McMSF Servers](https://github.com/Vxiaolong666/mcmsf-SJMC)** — An open Minecraft server promotion platform that allows browsing, filtering, and connecting to various Minecraft servers on the MCMSF platform directly from the launcher
 
 ---
 
