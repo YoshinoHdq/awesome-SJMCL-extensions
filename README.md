@@ -37,13 +37,15 @@
 
 ## 界面增强
 
-_暂无收录，欢迎提交。_
+- **[Auto Titlebar](https://github.com/YoshinoHdq/sjmcl-auto-titlebar)** — 鼠标悬停时显示标题栏，移出时自动隐藏。
+- **[Launcher Theme Enhancer](https://github.com/YoshinoHdq/sjmcl-launcher-theme-enhancer)** — 整合城市天气、动态背景和粒子特效为一体的一站式启动器美化扩展。
 
 ## 生产力工具
 
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — 提醒处理 SJMCL 拉取请求的扩展
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一个记录 Minecraft 游戏活跃度的日历扩展
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一个简单的 ToDoList 扩展
+- **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — 分析 Minecraft 错误日志，识别常见问题并提供解决建议。
 
 ## 新闻资讯
 
@@ -61,6 +63,8 @@ _暂无收录，欢迎提交。_
 ## 其他
 
 - **[McMSF 浆果服服务器](https://github.com/Vxiaolong666/mcmsf-SJMC)** — 开放的 Minecraft 服务器宣传平台，支持在启动器中浏览、筛选和连接 MCMSF 平台上的各类 Minecraft 服务器
+- **[Server Sentinel](https://github.com/YoshinoHdq/sjmcl-server-monitor)** — Minecraft 服务器监控面板 - 实时查看在线人数、延迟、TPS 与状态。
+- **[[SJMC服务器专用]SMP2 卫星地图](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — 在启动器中查看 SJMC SMP2 服务器的实时卫星地图，支持多维度切换与 2D/3D 视图。
 
 ---
 
