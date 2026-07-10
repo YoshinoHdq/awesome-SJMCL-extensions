@@ -46,6 +46,7 @@
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一個記錄 Minecraft 遊戲活躍度的日曆擴展
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一個簡單的 ToDoList 擴展
 - **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — 分析 Minecraft 錯誤日誌，識別常見問題並提供解決建議。
+- **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — 功能比較簡單的小記事本。
 
 ## 新聞資訊
 
@@ -54,7 +55,9 @@
 ## 娛樂
 
 - **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — 在啟動器主頁顯示每日 Minecraft 迷因的擴展
+- **[MC Daylight](https://github.com/YoshinoHdq/SJMCL-MC_Daylight)** — 即時顯示 Minecraft 伺服器時間與晝夜狀態。
 - **[PigHub Random Pig](https://github.com/bowenxiao751-svg/sjmcl-pighub-random)** — 從 PigHub 獲取隨機可愛豬豬圖片，支援首頁卡片、全屏畫廊與自動輪播。
+- **[TrophyCraft](https://github.com/YoshinoHdq/SJMCL-TrophyCraft)** — 在啟動器中收集成就，分析你的啟動器使用人格。
 
 ## AI
 
@@ -62,6 +65,7 @@ _暫無收錄，歡迎提交。_
 
 ## 其他
 
+- **[Footprints](https://github.com/YoshinoHdq/SJMCL-Footprints)** — 自動儲存已刪除的實例為紀念卡片，在首頁展示。
 - **[McMSF 漿果服伺服器](https://github.com/Vxiaolong666/mcmsf-SJMC)** — 開放的 Minecraft 伺服器宣傳平台，支援在啟動器中瀏覽、篩選和連接 MCMSF 平台上的各類 Minecraft 伺服器
 - **[Server Sentinel](https://github.com/YoshinoHdq/sjmcl-server-monitor)** — Minecraft 伺服器監控面板 - 即時查看線上人數、延遲、TPS 與狀態。
 - **[[SJMC伺服器專用]SMP2 衛星地圖](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — 在啟動器中查看 SJMC SMP2 伺服器的即時衛星地圖，支援多維度切換與 2D/3D 檢視。
@@ -77,3 +81,4 @@ _暫無收錄，歡迎提交。_
 由 SJMCL 社群維護
 
 </div>
+
