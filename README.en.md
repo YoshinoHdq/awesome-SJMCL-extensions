@@ -42,11 +42,11 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 
 ## Productivity Tools
 
+- **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — Analyze Minecraft error logs, identify common issues and provide solutions.
+- **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — A simple notepad extension for SJMCL.
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — A reminder extension for handling SJMCL pull requests.
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — A simple calendar widget to track your Minecraft activities.
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — A simple ToDoList extension.
-- **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — Analyze Minecraft error logs, identify common issues and provide solutions.
-- **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — A simple notepad extension for SJMCL.
 
 ## News & Info
 

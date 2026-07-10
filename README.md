@@ -42,11 +42,11 @@
 
 ## 生产力工具
 
+- **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — 分析 Minecraft 错误日志，识别常见问题并提供解决建议。
+- **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — 功能比较简单的小记事本。
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — 提醒处理 SJMCL 拉取请求的扩展
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一个记录 Minecraft 游戏活跃度的日历扩展
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一个简单的 ToDoList 扩展
-- **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — 分析 Minecraft 错误日志，识别常见问题并提供解决建议。
-- **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — 功能比较简单的小记事本。
 
 ## 新闻资讯
 
