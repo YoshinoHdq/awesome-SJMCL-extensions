@@ -68,7 +68,7 @@ _Nothing here yet. Submit yours!_
 - **[Footprints](https://github.com/YoshinoHdq/SJMCL-Footprints)** — Automatically preserve deleted instances as memorial cards on the home page.
 - **[McMSF Servers](https://github.com/Vxiaolong666/mcmsf-SJMC)** — An open Minecraft server promotion platform that allows browsing, filtering, and connecting to various Minecraft servers on the MCMSF platform directly from the launcher
 - **[Server Sentinel](https://github.com/YoshinoHdq/sjmcl-server-monitor)** — Minecraft server monitoring panel with real-time online players, latency, and TPS.
-- **[[SJMC Server] SMP2 Satellite Map](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — [SJMC server only] View real-time satellite map of SJMC SMP2 server with multi-dimension switching and 2D/3D views.
+- **[SJMC SMP2 Satellite Map](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — View real-time satellite map of SJMC SMP2 server with multi-dimension switching and 2D/3D views.
 
 ---
 
@@ -81,4 +81,6 @@ Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) before opening a PR.
 Maintained by the SJMCL community
 
 </div>
+
+
 

@@ -68,7 +68,7 @@ _暂无收录，欢迎提交。_
 - **[Footprints](https://github.com/YoshinoHdq/SJMCL-Footprints)** — 自动保存已删除的实例为纪念卡片，在首页展示。
 - **[McMSF 浆果服服务器](https://github.com/Vxiaolong666/mcmsf-SJMC)** — 开放的 Minecraft 服务器宣传平台，支持在启动器中浏览、筛选和连接 MCMSF 平台上的各类 Minecraft 服务器
 - **[Server Sentinel](https://github.com/YoshinoHdq/sjmcl-server-monitor)** — Minecraft 服务器监控面板 - 实时查看在线人数、延迟、TPS 与状态。
-- **[[SJMC服务器专用]SMP2 卫星地图](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — 在启动器中查看 SJMC SMP2 服务器的实时卫星地图，支持多维度切换与 2D/3D 视图。
+- **[SJMC SMP2 卫星地图](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — 在启动器中查看 SJMC SMP2 服务器的实时卫星地图，支持多维度切换与 2D/3D 视图。
 
 ---
 
@@ -81,4 +81,6 @@ _暂无收录，欢迎提交。_
 由 SJMCL 社区维护
 
 </div>
+
+
 
