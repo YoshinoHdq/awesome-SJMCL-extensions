@@ -81,6 +81,3 @@ Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) before opening a PR.
 Maintained by the SJMCL community
 
 </div>
-
-
-
